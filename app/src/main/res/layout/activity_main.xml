@@ -19,14 +19,14 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:id="@+id/closeButton"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="50dp"
         android:text="Close"
         android:onClick="closeButtonPressed"/>
 
     <EditText
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="150dp"
         android:id="@+id/hostnameField"
         android:hint="hostname"/>
 

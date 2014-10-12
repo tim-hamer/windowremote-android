@@ -70,9 +70,11 @@ public class MainActivity extends Activity {
 
     public void openButtonPressed(View view) {
         pressButton("open");
+        pressButton("open");
     }
 
     public void closeButtonPressed(View view) {
+        pressButton("close");
         pressButton("close");
     }
 
